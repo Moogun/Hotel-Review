@@ -146,7 +146,7 @@
     &__item:active::before {
         background-color: var(--color-primary-light);
     }
-    
+
     &__link,
     &__link:visited {
         text-decoration: none;
@@ -177,4 +177,13 @@
     color: var(--color-grey-light-4);
     padding: 2.5rem;
 
+}
+
+.gallery {
+    display: flex;
+
+    &__photo {
+        width: 100%;
+        display: block;
+    }
 }
