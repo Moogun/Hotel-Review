@@ -1,4 +1,4 @@
-# This is a CSS3 practice project with SASS
+# Hotel Review Site Project written with CSS3 with SASS 
 
 ## How to test
 1. clone or download this project
