@@ -3,6 +3,7 @@
 ## How to test
 1. clone or download this project
 2. npm install && npm run build:css && npm run devserver
+3. visit http://localhost:8080/
 
 ## Features
 1. Flexbox for layout
