@@ -1,6 +1,6 @@
 # Hotel Review Site Project written with CSS3 with SASS 
 
-![screenshot](Screen Shot 2018-10-18 at 10.44.28 AM.png)
+![screenshot](scshot.png)
 
 ## How to test
 1. clone or download this project
