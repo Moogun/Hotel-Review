@@ -1,5 +1,7 @@
 # Hotel Review Site Project written with CSS3 with SASS 
 
+![screenshot](Screen Shot 2018-10-18 at 10.44.28 AM.png)
+
 ## How to test
 1. clone or download this project
 2. npm install && npm run build:css && npm run devserver
@@ -45,4 +47,4 @@ html {
 
 
 ## Credit
-Designed by [Jonas](https://github.com/jonasschmedtmann/advanced-css-course)
+The design used in this repo was designed by [Jonas](https://github.com/jonasschmedtmann/advanced-css-course)
